@@ -1,0 +1,21 @@
+Classical
+Country
+EDM
+Hip Hop
+Jazz
+Metal
+Oldies
+Pop
+Rap
+Rhythm and Blues
+Rock
+Folk
+Bluegrass
+Blues
+Gospel
+Swing
+Opera
+Polka
+A Capella
+Acoustic
+Instrumental
